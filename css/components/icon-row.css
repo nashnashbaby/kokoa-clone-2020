@@ -18,4 +18,9 @@
 }
 .icon-row__icon span {
     margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+.icon-row__icon span:nth-child(2) {
+    text-align: center;
 }
